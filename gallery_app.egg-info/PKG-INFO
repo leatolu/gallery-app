@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: gallery-app
-Version: 0.1
+Version: 0.2
 Summary: A django app to display images in a gallery
 Home-page: https://github.com/leatolu/gallery-app
 Author: leatolu
